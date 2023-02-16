@@ -8,3 +8,5 @@ public void calculateSalary(int workinghour) {
 	System.out.println("total payment of full_time_employee: "+totalpayment);
 }
 }
+
+
